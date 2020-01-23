@@ -1,0 +1,43 @@
+h1 {
+    Text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+h2 {
+    font-size: 35px;
+    color: blue;
+}
+p {
+    font-size: 20px;
+    color: orange;
+}
+li {
+    font-size: 20px;
+    color: red;
+}
+h4 {
+    font-size: 35px;
+    color: blue;
+}
+
+h3 {
+    font-size: 30px;
+    color: blue;
+}
+img {
+    width: 200px;
+}
+html {
+    background-color: blue;
+}
+h5 {
+    font-size: 35px;
+    color: blue;
+}
+h6 {
+    font-size: 35px;
+    color: blue;
+}
+body {
+    background: url(https://wallpaperaccess.com/full/404506.jpg);
+}
